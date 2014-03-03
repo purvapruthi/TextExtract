@@ -8,6 +8,7 @@ statistical techniques.
 
 Demonstration
 
+[solarized pallete]
 =============
 
 
