@@ -7,9 +7,11 @@ efficient system with better accuracy to recognize text in all kind of images us
 statistical techniques.
 
 Demonstration
-Sample IMAGE
+
 ![solarized pallete](./testset/104.jpg)
-Rsult IMAGE
+
+
+
 ![solarized pallete](./testset/result.jpg)
 =============
 
