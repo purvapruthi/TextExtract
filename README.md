@@ -9,11 +9,12 @@ statistical techniques.
 Demonstration
 
 ![solarized pallete](./testset/104.jpg)
-
-
-
 ![solarized pallete](./testset/result.jpg)
 =============
+![solarized pallete](./testset/sample2.jpg)
+![solarized pallete](./testset/result2.jpg)
+
+
 
 
 
