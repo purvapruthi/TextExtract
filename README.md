@@ -8,7 +8,7 @@ statistical techniques.
 
 Demonstration
 
-![solarized pallete](https://raw/github.com/purvapruthi/TextExtract/blob/master/testset/104.jpg)
+![solarized pallete](./testset/104.jpg)
 =============
 
 
